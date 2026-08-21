@@ -17,6 +17,9 @@ Hecho por necesidad: una herramienta para bocetar ideas musicales completas (mel
 - 💾 **Exportación** a WAV (mezcla completa) o stems individuales en ZIP
 - 🌐 **100% offline**: es un solo archivo HTML. Se abre con doble click, sin servidor, sin conexión
 
+- <img width="1024" height="1536" alt="flyer sscd" src="https://github.com/user-attachments/assets/776ef235-22ef-44ab-ab04-2a1561b9d183" />
+
+
 ## Cómo usarlo
 
 1. Descargá `sensitive_synthetic_composer_daw.html`
