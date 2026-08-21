@@ -38,6 +38,10 @@ No requiere instalación, build, ni servidor. No manda datos a ningún lado — 
 
 Este DAW no busca reemplazar a Reaper, FL Studio ni ningún DAW profesional — es una herramienta de **maquetación rápida**: capturar una idea completa apenas se te ocurre, en la compu que tengas a mano, sin fricción de instalación ni licencias. De ahí bajás el track y lo terminás donde ya trabajás.
 
+
+<img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/c5cf59aa-5f40-48d8-8b47-56639771eb5f" />
+
+
 Parte del ecosistema [Sensitive Lab](https://github.com/coronelguillermo85-art) — instrumentos y herramientas musicales DIY.
 
 ## Licencia
